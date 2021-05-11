@@ -1,10 +1,10 @@
 baseball/domain/Referee.java
  baseball.domain.Referee
-baseball/domain/Judgment.java
- baseball.domain.Judgment
-baseball/domain/Calculator.java
- baseball.domain.Calculator
-baseball/Application.java
- baseball.Application
 baseball/domain/NumberGenerator.java
  baseball.domain.NumberGenerator
+baseball/domain/Calculator.java
+ baseball.domain.Calculator
+baseball/domain/Judgment.java
+ baseball.domain.Judgment
+baseball/Application.java
+ baseball.Application
